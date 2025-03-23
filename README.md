@@ -1,0 +1,2 @@
+# ProgramowanieZorientowaneObiektowo
+Repozytorium na zadania do przedmiotu podstaw programowania zorientowanego obiektowo
