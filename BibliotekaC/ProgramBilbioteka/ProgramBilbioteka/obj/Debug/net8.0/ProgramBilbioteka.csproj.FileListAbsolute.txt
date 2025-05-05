@@ -1,0 +1,28 @@
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.exe
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.deps.json
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.runtimeconfig.json
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.pdb
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.AssemblyInfoInputs.cache
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.AssemblyInfo.cs
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.csproj.CoreCompileInputs.cache
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\refint\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.pdb
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.genruntimeconfig.cache
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\Biblioteka C\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ref\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.exe
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.deps.json
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.runtimeconfig.json
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\bin\Debug\net8.0\ProgramBilbioteka.pdb
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.AssemblyInfoInputs.cache
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.AssemblyInfo.cs
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.csproj.CoreCompileInputs.cache
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\refint\ProgramBilbioteka.dll
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.pdb
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ProgramBilbioteka.genruntimeconfig.cache
+C:\Users\48669\Desktop\ćwiczenia programowanie obiektowe\BibliotekaC\ProgramBilbioteka\ProgramBilbioteka\obj\Debug\net8.0\ref\ProgramBilbioteka.dll
